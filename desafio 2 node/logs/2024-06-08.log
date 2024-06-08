@@ -1,0 +1,1156 @@
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:26:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 41 ms Request ID: [a3702d12-385a-4876-9d2e-b7164e969d0c]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:26:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 33 ms Request ID: [781bbf55-f904-4ffd-a6be-2e436f0ff36b]
+
+Started GET /favicon.ico for :: ::1 at Fri Jun 07 2024 23:26:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 5 ms Request ID: [f6b43917-b1d1-48f2-a765-2956ddda40ff]
+
+Started PUT /canciones/9107 for :: ::1 at Fri Jun 07 2024 23:26:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 62 ms Request ID: [2d3f7b95-2e82-40fc-946d-b788b4be0456]
+
+Started DELETE /canciones/9107 for :: ::1 at Fri Jun 07 2024 23:26:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [8c0eb1c1-a536-40b0-8b6b-c8766b0f8555]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:27:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [aa72b52b-1932-42c9-89c5-7c49fe84cf64]
+
+Started DELETE /canciones/9107 for :: ::1 at Fri Jun 07 2024 23:27:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [16bd8a71-5034-4537-b774-382b2b8809bd]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:27:03 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [9899182a-9354-4c19-bcc7-f8699ee967d4]
+
+Started DELETE /canciones/1785 for :: ::1 at Fri Jun 07 2024 23:27:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [0fd34ca0-c0e4-4a80-b5e3-771831f50872]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:27:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 40 ms Request ID: [81104f1a-0924-4da7-95ca-ea89a19ab3bf]
+
+Started DELETE /canciones/5660 for :: ::1 at Fri Jun 07 2024 23:27:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 11 ms Request ID: [60a06807-91aa-4cb0-8977-37062aff2924]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:27:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [f847e392-a6f1-4197-9e31-efaff73e2df6]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:27:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [0aad751d-4a34-47ed-beb8-5f3576fcdbdb]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:27:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [8b450857-32d1-46cc-b65e-c3ed30a7cfc2]
+
+Started DELETE /canciones/1785 for :: ::1 at Fri Jun 07 2024 23:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [53962af9-9f59-43aa-ade1-af681e98eb34]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:27:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [397c7995-58b8-4e85-b518-ff4a2789c895]
+
+Started DELETE /canciones/5660 for :: ::1 at Fri Jun 07 2024 23:27:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [5ae261c6-80e3-4dca-b669-1f9f2a639451]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:27:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [2e459301-6e60-4505-b708-ec7d786b0315]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 23:28:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 10 ms Request ID: [7d72b91f-194a-4360-87fe-32869ec398f0]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:28:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [187f4649-54d2-4ec2-b3a4-ad549a44d466]
+
+Started DELETE /canciones/9240 for :: ::1 at Fri Jun 07 2024 23:28:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [e99bf110-4d9a-44b1-9521-0bcce93be038]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:28:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [db2032f9-2de5-4453-86d5-52bdea01151f]
+
+Started DELETE /canciones/9107 for :: ::1 at Fri Jun 07 2024 23:29:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [bce7cc05-23bd-4b77-80e9-45295320e8a5]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:29:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [3080bdd4-2ef5-43b7-9f03-7527f77198cf]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:30:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [a0251f9a-497f-4a43-9d26-9b894fa88e96]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:30:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [0a8bf7b4-6bd6-4dee-ae32-de0b32bcbc6b]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:30:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [b5ee60d2-d89e-440d-9378-31a3c6cf2913]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:30:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [d633fa1b-2101-4ea2-b124-34a3c68db565]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 23:30:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 7 ms Request ID: [5f69e417-b881-4ee0-904a-c6a04ef45f7e]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:30:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [a642da37-cac0-450a-92bb-ea30785e9071]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:30:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [9d36d48c-e173-4038-8703-b0e54022dbb3]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:30:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [31b0f471-e04e-444b-8312-85a23ea35c28]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:31:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 7 ms Request ID: [19e9731f-b323-42c5-8023-00cffdc4d3af]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:31:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [47aa7d55-c5fd-440b-98d3-9ce3d72c140b]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:31:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [5d902fef-4fbe-4495-a7bf-aae3b1eb2da5]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:31:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [4e01f233-7f67-4148-b58f-25a03c6fd916]
+
+Started GET /:3512 for :: ::1 at Fri Jun 07 2024 23:31:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [7f07ce43-c894-454e-9e8a-3be03ccd0e95]
+
+Started GET /:canciones for :: ::1 at Fri Jun 07 2024 23:31:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [b784c3b9-c4b0-4cfc-b41b-5590b56d89e7]
+
+Started GET /:cancion for :: ::1 at Fri Jun 07 2024 23:31:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [5571d6cf-6422-40f1-82c8-945c3932680b]
+
+Started GET /:repertorio for :: ::1 at Fri Jun 07 2024 23:31:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 5 ms Request ID: [55c0b6cc-6fd7-4efa-afcf-abca72a4fe8a]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:32:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [9fedb2ba-9dad-4620-aa20-6381d09b0a7d]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:36:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [0519b601-492c-46d3-9e22-19cea7624949]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:36:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [0844b9f8-3c9b-4449-8793-b4bbfa845a31]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:38:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [53df4b4e-722a-4533-80e9-b026be9453cf]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:39:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [b9664965-12b2-4f7e-b306-f5c9ffe655f3]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:39:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 9 ms Request ID: [8dd58253-d770-4ce1-a3b4-76538565906a]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:40:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [65608673-cd0c-4662-9031-0d80eff9fbb6]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:40:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 7 ms Request ID: [17e37e6f-5618-4e21-9a1f-5f17f23924c1]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:40:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 7 ms Request ID: [f7a9b523-027d-4585-aa76-26c35397fd42]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:40:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [57f43f05-f423-45b8-8779-9ec67f9db04d]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:40:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [5796ae42-3af6-4cac-93c6-382342b1e9d2]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:40:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [06bd3229-c52c-42bf-a4cd-90bfee1c6d34]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:40:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [adc37f15-f93f-406d-8dae-69462df09175]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 23:40:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 7 ms Request ID: [173d9a40-9927-4eae-a360-a31152ecf185]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:40:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [97e1ffbd-55a6-453a-902c-794f1c789ed8]
+
+Started PUT /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:40:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [df2f994f-6917-447a-91e9-46310de30ca1]
+
+Started PUT /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:40:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [bd90def9-7638-41ef-a53d-d7158df94e77]
+
+Started PUT /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:42:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [b8712482-d43a-4c66-9e1b-583aac5b6736]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:43:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 7 ms Request ID: [2c1daf4f-f0ac-4bc3-b29b-f352256b5dce]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:43:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 5 ms Request ID: [e500d78e-a98d-474a-add3-e3cad280e4d9]
+
+Started PUT /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:43:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [3fd05865-ee57-4d7e-9518-05a38ca1ded1]
+
+Started PUT /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:46:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [fdfe9673-1da7-466f-a22a-5ca7c7b02a4f]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:46:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 7 ms Request ID: [dfe2eaba-5b06-43f9-b8f7-02ccedb92dbf]
+
+Started PUT /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:48:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 7 ms Request ID: [774e925b-f7f6-4a85-bff5-813aad273f1c]
+
+Started PUT /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:48:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [5e99eca4-a3d0-4041-b9e5-1a0769886337]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:48:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [43d65d19-5298-4301-9e8e-369309ee4783]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:48:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [eeb7b807-e63b-4a3f-ba6d-541b3e5cb603]
+
+Started DELETE /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:48:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [05d26a77-ed02-4939-aa25-cd3499d089d4]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:48:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [a65034bd-ce80-4891-87b3-f97bbb651330]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:48:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [d65ae1e0-83ec-41a1-9f4e-74c1c1eef5a6]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:48:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [e6d54e9b-1b64-45f6-96fe-b7e06d36b7e4]
+
+Started DELETE /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:48:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 9 ms Request ID: [c6822977-0ecb-455e-9144-58a6db76fa78]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:48:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [009852d1-099f-4fd5-8118-f8d2a23dc12f]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:49:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [44b03d38-ce09-43c8-8f66-3211fb8712b0]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:49:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [8fb0a28e-33ff-44f4-816d-a7cc19ee326f]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:49:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [4f969af9-f6e0-4418-8cee-054e70aa0bc7]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:49:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [02197030-ba32-4206-9528-00650b2fd6e8]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:49:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [212f8a13-262e-4c11-abe4-2f481277c82a]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:49:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [f6fecc6c-eafe-467b-9d28-47f7c1f3821b]
+
+Started DELETE /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:49:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [b8db9ef9-3c10-4c8c-a9f5-2dc3d529ee5a]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:49:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [a3a97a63-80a6-4774-8d7e-80c11c099ec2]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:49:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [fb5120ae-7cc3-41ec-af80-e39c3014ca6f]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:49:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [5fc374d8-6ae0-4b66-bbfa-1cec04d2bc4b]
+
+Started DELETE /canciones/8945 for :: ::1 at Fri Jun 07 2024 23:49:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [3c62ec2b-069c-4a3c-8f54-004c4bbcd6bb]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:49:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [eb89d9ef-3252-4e52-a7dd-c8b66e226b47]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:49:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [950fe5a9-33d5-4788-8487-a972403135d3]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:49:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [c933eea3-7fe8-4333-baab-57e20252bc5a]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:49:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [9d6b587f-2a69-4b24-bf8e-dc761ff40a70]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:50:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [be472571-b134-4f1a-9df5-9cb8f6627bd4]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:50:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [a7b7ef37-7e7a-4324-acbd-7c288349908b]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:50:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [72e72bb0-cda2-4e78-9741-ab5d7b51d8c0]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:50:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [5afdfbce-1481-442b-a290-912abbfcaf98]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:50:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [107b4b6c-655e-4280-9f27-166ff03d12f6]
+
+Started DELETE /canciones/3512 for :: ::1 at Fri Jun 07 2024 23:51:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [3422f241-24e9-424a-95d4-87a25f378274]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:51:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [de436150-fb0c-49c6-a345-4b70e346cfbd]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:51:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [d435ef75-23ad-4ae5-8b0e-6f1b1d46bd9e]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:51:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [b57c711c-1deb-4912-be75-d6d5dbbbe611]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 23:51:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 7 ms Request ID: [3d85dac0-f963-4af6-8f8a-3c5d4e0b6769]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:51:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [d2186459-8806-4c62-9466-eaedd018959b]
+
+Started DELETE /canciones/9355 for :: ::1 at Fri Jun 07 2024 23:51:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [ead22b18-6c45-4c4e-a180-d35ba1536587]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:51:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [40a3a69b-11cf-4d81-a9e4-e4d1cd67f01c]
+
+Started GET / for :: ::1 at Fri Jun 07 2024 23:52:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [b637c950-2fad-4d9a-8726-79f07d8aeac4]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:52:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [764f84df-f57f-4172-a779-a71bbfbee0b3]
+
+Started POST /canciones for :: ::1 at Fri Jun 07 2024 23:52:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 7 ms Request ID: [9fd26386-ccdc-41c3-afbf-80d03d3484e3]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:52:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [10b8a0ca-9a0b-4ab3-ab34-3afad1919ad2]
+
+Started DELETE /canciones/4318 for :: ::1 at Fri Jun 07 2024 23:52:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [acabf651-74fb-4a70-a8c9-b3db5d2fc6b1]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:52:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [71773226-7f08-4a4d-9551-afbca0180cdf]
+
+Started DELETE /canciones/4318 for :: ::1 at Fri Jun 07 2024 23:53:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [a38d95e2-ad06-49f0-b9f0-77858ac9bbc6]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:53:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 8 ms Request ID: [04d92f38-132f-4666-a1a9-d792f902726f]
+
+Started DELETE /canciones/4318 for :: ::1 at Fri Jun 07 2024 23:53:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [c333c269-a06b-4a45-83b0-0139d607de89]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:53:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [ed1c06ad-d9bd-4487-a49c-33212dfa2708]
+
+Started DELETE /canciones/4318 for :: ::1 at Fri Jun 07 2024 23:59:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [43d291a5-b476-4fa6-abca-f5b8deb150df]
+
+Started GET /canciones for :: ::1 at Fri Jun 07 2024 23:59:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [6887f080-0242-4cc8-a1ee-02a7ad75f433]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:04:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [7aae0d56-9400-4548-843e-13f199d307e7]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:04:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [a00fee8a-f3d1-45df-a81d-a356ccf25b6c]
+
+Started DELETE /canciones/4318 for :: ::1 at Sat Jun 08 2024 00:04:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [fc5456f8-7b51-4253-b7ec-e08dffc1eece]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:04:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [7291b1f1-be48-4d6f-ba05-b12cbd73ff4c]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:04:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 8 ms Request ID: [3a4b9fb0-8eab-40d9-bda2-295acc4fec4a]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:04:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [3ab6fde3-e906-42e4-bc19-2219de9d00dd]
+
+Started PUT /canciones/5115 for :: ::1 at Sat Jun 08 2024 00:04:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 7 ms Request ID: [09de35b9-b973-417d-84bb-061a290ece71]
+
+Started DELETE /canciones/5115 for :: ::1 at Sat Jun 08 2024 00:04:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [7319da59-befa-462e-bfdf-a692ce267210]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:04:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [f20d34c9-cba0-4e0e-924b-5b053720b964]
+
+Started DELETE /canciones/4318 for :: ::1 at Sat Jun 08 2024 00:04:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [1774db39-984c-42e9-9157-6c2df8762f07]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:04:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [8b936ba8-e344-45f4-b365-96f5d0629225]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:09:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [03127a62-a576-4811-be14-a5fc2a077cd1]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:09:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [a9b037e8-34f8-4c75-a86d-c5c63077531d]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:09:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 7 ms Request ID: [be8f964e-2e0f-4301-805f-7a3a5e24a5eb]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:09:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [f4ccf42f-c4da-416e-981e-b399b6cb3534]
+
+Started DELETE /canciones/1180 for :: ::1 at Sat Jun 08 2024 00:09:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [bf0b4274-32e7-410a-8df4-43f3723d60f2]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:09:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [c16e75f1-e076-495c-bb9e-fc05d413affc]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:09:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [593750cf-ca40-4786-a8d6-469e090df6e5]
+
+Started DELETE /canciones/1180 for :: ::1 at Sat Jun 08 2024 00:12:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [f1bfa1be-9d5e-48bb-b75c-e74e39ffed32]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:12:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [64159db9-2f95-4a4c-bef7-c9ea6a4262b0]
+
+Started DELETE /canciones/1180 for :: ::1 at Sat Jun 08 2024 00:20:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [ee52db49-c6b4-4d6c-986b-edd488306b57]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:20:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [34eb7591-e90a-40ec-accb-25325a9a10e9]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:20:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 6 ms Request ID: [ca7bd35c-5c88-4e0d-96d7-115c79246235]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:20:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [1415f6e1-22f4-45b2-81d8-b7583d929621]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:21:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [05ad2da3-5948-43b6-bfcd-9712f369f30c]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:21:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [75ddae0b-b5f8-46c8-af6c-e8cdf9620423]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:21:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 27 ms Request ID: [847bc1ab-20ae-4f0a-9e92-d2fcb3b76cda]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:21:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [00a798e5-68f5-4061-96a3-df58699b3311]
+
+Started DELETE /canciones/1180 for :: ::1 at Sat Jun 08 2024 00:23:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [ed2427c7-5ca5-4f47-8b47-75b13772a3a7]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [fb35e14f-cf97-4090-9188-7c53a0271e92]
+
+Started DELETE /canciones/1180 for :: ::1 at Sat Jun 08 2024 00:23:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [f5752b92-024e-48de-91cf-452c4887b22e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [8deb48e7-5335-4724-a79d-76d81b48ef68]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:23:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [90ff32b2-7bd4-47a8-b1cc-ed4ec6e93cf9]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [c5b260eb-eb3e-4e73-a686-8d9412205448]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:23:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [9f089202-e006-4b62-8676-fe13576cd7d7]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [c738ef13-e5b4-45cf-b51d-e4977231aaa1]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:23:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 4 ms Request ID: [f3777924-aff6-4268-88aa-c39ba80d496b]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [d92df138-ff9f-4186-bdff-5f523c32e09c]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:23:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [bf11e3ce-9002-4bf1-a50c-dbab2ce54e16]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [54a0ebf4-e4a3-49ee-b6d9-c0c5e0ae81b5]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:23:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [aba64b1e-5276-4099-b424-063530d6b165]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 7 ms Request ID: [16479c78-1900-49f8-86ae-752a504461ce]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:23:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [f3b411e4-b416-4e24-9bd8-afaeb317549f]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [8f0fa560-8430-482a-a6e3-bc09edfcc12f]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:23:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [17e6cfd7-b4f9-4593-a71a-1c099ea7ce2e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:23:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [ce6b5ed7-8e3e-47be-83e8-38b490bc22ec]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:26:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [3ac04d6a-d065-4153-bab6-8a9f23047c28]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:26:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [e272ca73-d51c-4e26-b813-59e48ea1bf58]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:27:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [cea9f72f-96d8-46ec-8f85-c949ac2ff52f]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:03 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [84f002b6-022a-46a0-9f55-958e22c54d80]
+
+Started PUT /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [86fd1473-5765-42c9-a3e1-4cd03698a9b5]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [c1cb0c2c-b9c6-4d75-bd22-05bc1bfd0c76]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [9b0b33e1-af7f-4ba2-8757-03e54260e578]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [fb515b89-3e37-4a3a-9d4a-d730b22aea28]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [e2ddc58e-4eeb-432f-b08f-8a7eeef37edd]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [10c1df06-f22c-4a87-bc2e-810933d1611f]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 41 ms Request ID: [a0e3a4be-b94d-478d-bb21-438e73229423]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [7c9e82cc-453f-41d2-920b-2344920dd15f]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [68eb134f-e5b9-46ab-a7e9-847aa026d755]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [319eaf85-9efd-4ea9-9289-ebe3297b0c7e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [cc552814-cc8c-4cc0-b683-351d27aebe0d]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [b1929ce5-9dd9-4b0b-b624-f3c93e148415]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [2bbeaf83-ba11-4692-b853-f7d62ffbdda2]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [18a91ad7-cd42-47e8-999a-2e0896536606]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [d2c8b45a-ab46-4081-aa56-e63d760f10cf]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [7196bf97-8867-4136-a672-6940d7b62e81]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [fa67b6d3-1309-42b4-9cd6-48e7010fcb9b]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [20b6b1e7-5fc2-49fa-bb96-a2535b5ccef2]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [a35cc4cb-33fa-4a64-a385-f4c569615cf4]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [1647a856-1122-42e7-8271-7c75ed16bd66]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [1bc06cdc-28c9-438c-aee6-51e6d5ec9b02]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [1e577654-df8e-4743-bcf8-51d46f8ef835]
+
+Started GET /canciones/:409 for :: ::1 at Sat Jun 08 2024 00:27:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [8fe318b8-f9e1-4661-89b4-63980637881e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:27:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [1c508e97-e437-4a0f-b5f5-4794c0189246]
+
+Started GET /canciones/:409 for :: ::1 at Sat Jun 08 2024 00:28:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [146ce714-43af-4c7b-9ae0-618c7dc941b0]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:28:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [038f1867-e1e1-4a0d-afa2-4832d6316589]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 9 ms Request ID: [c3cd0fe4-0720-473e-be67-6d979228063a]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:28:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [978b3608-fa9c-40d1-86a9-f9caadad2ad4]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [c6b6c077-2288-4b84-bc05-538ac939ff57]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:28:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 6 ms Request ID: [b5298eed-4499-4f59-9756-2540c60af1ad]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [6e8c34f6-0c25-4a2a-a70b-16157a65e049]
+
+Started DELETE /canciones/1466 for :: ::1 at Sat Jun 08 2024 00:28:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [d59b5678-331b-4d64-a032-2572b055a52a]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [59b35ef8-0da9-427f-9bba-a32d7bfbee67]
+
+Started DELETE /canciones/1466 for :: ::1 at Sat Jun 08 2024 00:28:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [c80bbf38-3f79-45cc-82ce-b6349812ef38]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [1ddf013e-730a-4f7e-ad04-063929dbbca7]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:28:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [dba1dfae-2b1a-444e-96f8-0ca3b07f8d46]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [6bf92881-3eba-4af0-a3bf-42e1f26f9d5c]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [2fd768eb-27e2-44d3-a6c5-d458c399a8ba]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 11 ms Request ID: [06ff58ef-4262-40e6-8be3-4cdf35c2b49a]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [7f96d948-7bb7-4737-b494-542cce8e8fe7]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [a65f25d5-a8ad-4b2c-a5d9-ffbc7283f9a6]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [7d343c93-59fc-4ae5-8c40-0223260c6af8]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [7c87550c-b5e0-43eb-8ec8-73cac51cdae4]
+
+Started DELETE /canciones/409 for :: ::1 at Sat Jun 08 2024 00:30:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [9e7ce1e6-e1c6-4455-9881-461db5c85fef]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:30:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [cfa098ff-2738-41b2-919a-0507823eeb87]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:30:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 5 ms Request ID: [8ea1ee8c-6ccc-4790-9745-6a945678d2c7]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:30:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [9c1c87ec-90ba-4b34-ba8b-565db01ca2ba]
+
+Started DELETE /canciones/7377 for :: ::1 at Sat Jun 08 2024 00:30:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [6a7b231a-1819-456b-8163-46e49ffb87f0]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:30:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [35282635-db3b-4f49-b430-f1109b42cbc6]
+
+Started DELETE /canciones/7377 for :: ::1 at Sat Jun 08 2024 00:31:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [06bde8ad-2a64-4947-b6d8-2ec76e445c0f]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:31:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [712cbf13-a98f-4624-a695-b41ad91c93c9]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:31:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [c2051934-27ef-445e-b9c4-525d06875878]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:31:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [d02b4964-ce1e-4a31-a43a-9707c22a1a01]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:31:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 5 ms Request ID: [a51a8e51-0a97-4755-8f06-90a59f2b731e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:31:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [8eaa8fdb-21ed-4086-be90-bca60f12124d]
+
+Started DELETE /canciones/7377 for :: ::1 at Sat Jun 08 2024 00:31:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [92406f2d-e459-46e8-98f9-d8c6ee61d2b2]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:31:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [d0e0248c-ce80-4d40-ab53-d79a47d7cff9]
+
+Started DELETE /canciones/6383 for :: ::1 at Sat Jun 08 2024 00:31:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [e8be1212-abe9-43f1-9d73-8d2291138f46]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:31:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [25a157cc-cd6f-47fe-9296-ca052498b7db]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:36:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 22 ms Request ID: [e32d57b6-4a6c-4328-9583-02fda99129c0]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:36:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 12 ms Request ID: [92a01ab1-ab4f-4ce4-b140-06964814b624]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:36:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 24 ms Request ID: [ac9bfd7d-9a0e-4bd0-a8f3-e66fd368a033]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:36:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [ffe170b5-cda1-44b6-ad5b-2e8af40f2e7e]
+
+Started DELETE /canciones/1518 for :: ::1 at Sat Jun 08 2024 00:36:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [52bb5f89-716e-4ff2-a8a2-eae546ffb187]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:36:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [e89a3a02-9a24-454b-bdde-46a41ec80366]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:36:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 5 ms Request ID: [47b9227d-6563-4c0a-b3bf-830296775ce9]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:36:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [ad6e03cd-5702-4a4d-aa2b-530a12b3427c]
+
+Started PUT /canciones/3193 for :: ::1 at Sat Jun 08 2024 00:36:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [6d0ada9b-0c1c-4532-afdd-ab8a60b2133e]
+
+Started PUT /canciones/3193 for :: ::1 at Sat Jun 08 2024 00:38:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [9d06ffcc-e51e-4526-bbf2-d518ea9e0a21]
+
+Started PUT /canciones/3193 for :: ::1 at Sat Jun 08 2024 00:39:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 19 ms Request ID: [c7ecf59a-108c-4e39-92b8-22126787fda9]
+
+Started PUT /canciones/3193 for :: ::1 at Sat Jun 08 2024 00:39:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [56314a25-1c40-47c5-be6e-dcbe735b595d]
+
+Started DELETE /canciones/3193 for :: ::1 at Sat Jun 08 2024 00:40:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [57fe2976-5b12-4d91-aa62-5e949079cb7c]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:40:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 9 ms Request ID: [3330ce92-e187-49a3-a56b-95b578abd89f]
+
+Started PUT /canciones/3193 for :: ::1 at Sat Jun 08 2024 00:40:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 15 ms Request ID: [2694740e-7a63-49e5-8b04-e9294721e2a0]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:40:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 5 ms Request ID: [11bb7c6c-271e-4f93-9c8f-d8ba5f81599e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:40:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 11 ms Request ID: [6b60331b-79b0-441c-abfb-0c57496e878c]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:40:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 4 ms Request ID: [2bb6a637-5280-4968-9b5d-5083fb990d43]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:40:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [79836307-44e2-4ee8-b765-7f21da8dc22a]
+
+Started DELETE /canciones/2503 for :: ::1 at Sat Jun 08 2024 00:40:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 9 ms Request ID: [72b809e3-5583-46b5-ba13-95f0965bc82c]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:40:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [6e991b25-b7a6-4456-879f-77d815d66db3]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:40:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 14 ms Request ID: [563fc16c-8ce9-4d30-8480-7f0c3a27841e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:40:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [3766c44b-2200-4c12-aa51-47b9adfc0e74]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:40:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 10 ms Request ID: [bef9c0b4-7f5f-4d3d-a361-383fcce7082e]
+
+Started GET /canciones/:9989 for :: ::1 at Sat Jun 08 2024 00:40:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [f42204f1-9b2d-43a9-87a1-13d7a9f37828]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:40:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [8cf46092-b2f3-44bb-81f8-6bb3dc439eef]
+
+Started PUT /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:41:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 16 ms Request ID: [faabb939-ec67-44d4-bc07-6c51aed812e6]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:41:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [61977a06-39f7-4973-8ec2-80e9730bfc8b]
+
+Started PUT /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 23 ms Request ID: [b9731c1a-80d1-4a45-b994-4e61e5776d87]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:46:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [2aa29c4a-2285-4811-a534-43d16d749b2f]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 10 ms Request ID: [e219a904-b9bd-4b3a-8a17-96b25578eda6]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [0af81685-3652-428a-ac87-0294690b4235]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [6fa52f65-ff15-4199-892c-e56507dd65a7]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [f13f9f10-7553-4782-a416-7f5357ed2c27]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 13 ms Request ID: [f24ffebc-44a9-4354-b456-c5020b3a14f1]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [010b4c4d-3f23-4d01-b2eb-fe3f74459cee]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [5889eae0-b5bd-4d82-9d17-040efda91201]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:46:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [b85e3c10-fd5b-437f-9433-36631d46f09a]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:46:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [62280809-abad-4f57-97b1-fd2fee05c713]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [383ffcc2-3e4d-4934-9a36-5eb90ef94126]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:46:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [ffa7e26d-89ee-46a3-9615-9e6cd5370e53]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:47:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 13 ms Request ID: [e18d5dfe-7eba-40c9-98a3-32f9496575b5]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:48:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 12 ms Request ID: [45e6d000-7601-401d-b9a7-e9af78eda0b6]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:48:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 20 ms Request ID: [83b819bf-bfc9-4f74-a32e-01a6598a7282]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:49:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [fbfa5c8f-2659-42c2-b6d5-5f2457f383b4]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [1239f177-e471-4720-8dc9-cf3a02fa0f41]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:49:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 14 ms Request ID: [11735ce1-2fd9-418d-99e4-cfc6d19c0da0]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [617c6137-eebf-4729-bf8c-730aadd931e8]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:49:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [8c8a072e-083c-4e69-9704-c07ca49ee270]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [1d5e9c25-1d75-4856-bf2c-cde6b33be1d4]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:49:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [79275009-d2c2-4caa-a001-84b7cd5386cd]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:49:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [16eef471-8c7a-4552-8d33-dca6568f307d]
+
+Started DELETE /canciones/9989 for :: ::1 at Sat Jun 08 2024 00:49:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 2 ms Request ID: [fb7a0e56-f485-4a22-bd89-2dcdb8f09bfe]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:49:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 11 ms Request ID: [d49a9f29-ed77-4c35-a3fe-a085db76c546]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [d004bf47-0e69-499e-9a83-284a84f16a0c]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:49:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 16 ms Request ID: [c48a55c3-2263-449d-83d0-f2ac43fad88e]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [6844eb0e-42bb-4549-a206-4d7c62aaf021]
+
+Started DELETE /canciones/8458 for :: ::1 at Sat Jun 08 2024 00:49:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 11 ms Request ID: [0efd517f-4927-47f0-9254-e2646ac13eed]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 10 ms Request ID: [35ddf271-b472-4e85-9442-004d99b989b6]
+
+Started POST /canciones for :: ::1 at Sat Jun 08 2024 00:49:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 201 message:  Time response: 14 ms Request ID: [dc367c5d-b061-4fb8-be47-07a5bf930293]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [dc304af4-d4ac-4b80-be2f-dfc047497056]
+
+Started PUT /canciones/3745 for :: ::1 at Sat Jun 08 2024 00:49:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 20 ms Request ID: [25b9e69f-74ea-45d9-994e-c105fa2efac7]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [ca1f13c5-460f-4e89-9646-589887bec4fc]
+
+Started DELETE /canciones/3745 for :: ::1 at Sat Jun 08 2024 00:49:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 8 ms Request ID: [9e0e475f-358e-446c-a756-d4c8ff4d4c7b]
+
+Started GET / for :: ::1 at Sat Jun 08 2024 00:49:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 4 ms Request ID: [aa85a8de-4490-479f-97a4-9243654a494c]
+
+Started GET /canciones for :: ::1 at Sat Jun 08 2024 00:49:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [652eb4c6-f60c-476f-af32-d9104fbc2f9e]
+
+Started DELETE /canciones/3745 for :: ::1 at Sat Jun 08 2024 00:49:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [816bca8e-6237-49f9-97c4-c9e20ed8b35a]
